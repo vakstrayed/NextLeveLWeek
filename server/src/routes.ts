@@ -18,9 +18,6 @@ routes.get('/items', async (request,response) => {
     return response.json(items);
 });
 
-routes.get('/teste', (request,response) => {
-    return 1;
-});
 
 routes.post('/points', async (request,response) => {
     const {
