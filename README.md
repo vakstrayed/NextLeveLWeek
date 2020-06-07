@@ -5,6 +5,19 @@
 <h4 align="center"> 
 	:construction: NextLevelWeek 1.0 🚀 In progress.. :construction:
 </h4>
+
+<h2 align="center">
+  <a href="https://nodejs.org/en/">
+    <img src="https://img.shields.io/static/v1?label=Node&message=JS&color=blue?style=plastic&logo=Node.js" alt="NodeJS" />
+  </a>
+  <a href="https://reactjs.org/">
+    <img src="https://img.shields.io/static/v1?label=React&message=JS&color=blue?style=plastic&logo=React" alt="ReactJS" />
+  </a>
+  <a href="https://reactnative.dev/">
+    <img src="https://img.shields.io/static/v1?label=React&message=Native&color=blue?style=plastic&logo=React" alt="React-Native" />
+  </a>
+</h2>
+
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/MattLack/NextLeveLWeek?color=%2304D361">
 
@@ -76,19 +89,19 @@ From your command line:
 $ git clone https://github.com/MattLack/NextLeveLWeek/
 
 # Go into the repository
-$ cd NLW-1.0/backend
+$ cd NextLeveLWeek/server
 
 # Install dependencies
-$ yarn install
+$ npm install
 
 # Run Migrates
-$ yarn knex:migrate
+$ npm knex:migrate
 
 # Run Seeds
-$ yarn knex:seed
+$ npm knex:seed
 
 # Start server
-$ yarn dev
+$ npm run dev
 
 running on port 3333
 ```
@@ -114,7 +127,6 @@ Made with ♥ by MattLack :wave: [Get in touch!](https://www.linkedin.com/in/mat
 [expo]: https://expo.io/
 [reactjs]: https://reactjs.org
 [rn]: https://facebook.github.io/react-native/
-[yarn]: https://yarnpkg.com/
 [vs]: https://code.visualstudio.com/
 [vceditconfig]: https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
 [vceslint]: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
