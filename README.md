@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center"> 
-	:construction: NextLevelWeek 1.0 🚀 In progress.. :construction:
+	NextLevelWeek 1.0 🚀
 </h4>
 
 <h2 align="center">
@@ -21,7 +21,9 @@
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/MattLack/NextLeveLWeek?color=%2304D361">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/MattLack/NLW-1.0">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/MattLack/NextLevelWeek">
+  
+  <img alt="Code size" src="https://img.shields.io/github/languages/code-size/MattLack/NextLevelWeek">
 	
   <a href="https://www.linkedin.com/in/matt-lack/">
     <img alt="Made by MattLack" src="https://img.shields.io/badge/made%20by-MattLack-%2304D361">
@@ -36,10 +38,13 @@
     <img alt="Stargazers" src="https://img.shields.io/github/stars/MattLack/NextLeveLWeek?style=social">
   </a>
 </p>
+
+
 <p align="center">
   <a href="#-nlw">Next Level Week</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-specifying-technologies">Specifying Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-how-to-use">How to use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-how-to-contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -71,6 +76,53 @@ This project was developed with the following technologies:
 - [React][reactjs]
 - [React Native][rn]
 - [Expo][expo]
+
+## :dart: Specifying technologies
+
+In BackEnd: 
+```bash
+express
+@types/express
+knex
+ts-node-dev
+typescript
+ts-node
+sqlite3
+cors
+multer
+@types/multer
+crypto
+celebrate (to validate using express)
+@types/hapi__joi
+```
+
+In FrontEnd: 
+```bash
+react icons
+react-router-dom
+@types/react-router-dom
+leaflet (react-leaflet)
+axios
+integration with ibge api
+react-dropzone
+```
+
+In Mobile: 
+```bash
+expo cli
+expo google fonts
+fragment (concept)
+react navigation
+react-navigation/stack
+react-native-maps
+expo-constants
+react-native-svg
+axios
+expo-location
+expo-mail-composer
+Linking (using whatsapp)
+```
+
 
 ## 🔖 Layout
 
